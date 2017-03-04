@@ -1,5 +1,4 @@
 require 'spec_helper'
-require 'ostruct'
 
 describe Magvar do
   let(:xp_date) { Time.utc(2020, 1, 1) }
